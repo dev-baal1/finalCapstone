@@ -1,0 +1,31 @@
+Total number of users: 4
+Total number of tasks: 7
+
+
+Username: admin
+Tasks assigned to user: 3
+Percentage of tasks assigned to user: 42.86%
+Percentage of completed tasks assigned to user: 33.33%
+Percentage of uncompleted tasks assigned to user: 66.67%
+Percentage of overdue tasks assigned to user: 33.33%
+
+Username: mahad
+Tasks assigned to user: 2
+Percentage of tasks assigned to user: 28.57%
+Percentage of completed tasks assigned to user: 0.0%
+Percentage of uncompleted tasks assigned to user: 100.0%
+Percentage of overdue tasks assigned to user: 50.0%
+
+Username: 1
+Tasks assigned to user: 2
+Percentage of tasks assigned to user: 28.57%
+Percentage of completed tasks assigned to user: 100.0%
+Percentage of uncompleted tasks assigned to user: 0.0%
+Percentage of overdue tasks assigned to user: 0.0%
+
+Username: burhan
+Tasks assigned to user: 0
+Percentage of tasks assigned to user: 0.0%
+Percentage of completed tasks assigned to user: 0%
+Percentage of uncompleted tasks assigned to user: 0%
+Percentage of overdue tasks assigned to user: 0%
